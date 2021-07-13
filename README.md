@@ -1,6 +1,4 @@
 # R_Miniproject_KoreaMeteorologicalAnalysis
-R을 통해 미니 프로젝트를 진행한 결과입니다. R 파일 1개 + 진행했던 PPT 1개 + 보고서 1개 + csv파일 2개로 구성
-PPT의 연령대는 10대를 기준으로 작성
 
 주제 : 국내 기온, 강수량, 폭염을 이용한 데이터 분석 미니프로젝트
 
